@@ -1,5 +1,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+## Directory-based project format:
+**/.idea/
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -29,6 +32,7 @@
 # auto-import.
 # .idea/modules.xml
 # .idea/*.iml
+# .idea/*.xml
 # .idea/modules
 # *.iml
 # *.ipr
