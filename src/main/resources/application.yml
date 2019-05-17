@@ -3,3 +3,5 @@ server:
 camel:
   springboot:
     name: CamelExamples
+api:
+  path: /api
