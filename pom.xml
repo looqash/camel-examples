@@ -53,6 +53,7 @@
         <module>camel-servlet</module>
         <module>camel-exec</module>
         <module>camel-quartz</module>
+        <module>camel-file</module>
     </modules>
 
 
