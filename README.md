@@ -3,3 +3,4 @@
 - Camel-Servlet
 - Camel-Rest
 - Camel-Exec
+- Camel-Quartz
